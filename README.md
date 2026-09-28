@@ -17,10 +17,11 @@ Activity: "README.md update" by 6805142010-hue
 >Both branches modified the same section of README.md, Line 25 and 26. Git could detect that the changes overlapped, but it could not determine which version the team intended to keep. Therefore, a team member had to manually choose the correct version and remove the conflict markers.
 
 ## Git Contribution Summary
-9  6805142010-hue                   <--Moe Pyae Kyaw, 6805142010          
-9  AungSanThuRainTun                <--Aung San Thu Rain Tun, 6805142005 
-3  LaSi                             <--May Than Thar Ko, 6805140051 
-1  BrianHobbies                     <--Aung San Thu Rain Tun, 6805142005 
+|---|---|---|
+|9  6805142010-hue            |      Moe Pyae Kyaw, 6805142010          |
+|9  AungSanThuRainTun         |      Aung San Thu Rain Tun, 6805142005  |
+|3  LaSi                      |      May Than Thar Ko, 6805140051       |
+|1  BrianHobbies              |      Aung San Thu Rain Tun, 6805142005  |
 
 ## Reflection Questions
 **Why was your push rejected, and how did you fix it?**
