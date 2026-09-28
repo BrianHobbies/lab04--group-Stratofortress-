@@ -8,9 +8,9 @@
 | Moe Pyae Kyaw | 6805142010-hue | teardown.py |
 
 
-## Side Note: Initial event logs above the table are removed. This is the Final Version of README.md
+## Side Note: Initial event logs above the table are removed at "README.md Final Draft". 
 
-## Our Merge Conflict
+## Our Merge Conflict [Activity - README.md update by 6805142010-hue]
 **We encountered Conflict markers at line 25 and 26.**
 
 **We accepted the incoming branch "a4c40e0df70247927ee309e561cb46757c106bec" since the current branch is empty.**
