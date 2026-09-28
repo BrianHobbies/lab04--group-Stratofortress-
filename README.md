@@ -8,19 +8,24 @@
 | Moe Pyae Kyaw | 6805142010-hue | teardown.py |
 
 
-##Side Note: Initial event logs above the table are removed. This is the Final Version of README.md
+## Side Note: Initial event logs above the table are removed. This is the Final Version of README.md
 
 ## Our Merge Conflict
-#Activity: "README.md update" by 6805142010-hue
 **We encountered Conflict markers at line 25 and 26.**
+
 **We accepted the incoming branch "a4c40e0df70247927ee309e561cb46757c106bec" since the current branch is empty.**
+
 **Both branches modified the same section of README.md, Line 25 and 26. Git could detect that the changes overlapped, but it could not determine which version the team intended to keep. Therefore, a team member had to manually choose the correct version and remove the conflict markers.**
 
 ## Git Contribution Summary
-13  AungSanThuRainTun |
-9  6805142010-hue |
-3  LaSi |
-1  BrianHobbies |
+**13  AungSanThuRainTun** 
+
+**9  6805142010-hue** 
+
+**3  LaSi** 
+
+**1  BrianHobbies** 
+
 
 ## Reflection Questions
 **Why was your push rejected, and how did you fix it?**
