@@ -13,12 +13,16 @@ Created test_shared.py <-- assigned to this member
 Moe:
 Created teardown.py <-- assigned to this member
 
->>test_deposit.py, Merge Conflit with initial file from Aung S.T.R.T
->>Aung S.T.R.T overwrites the file
+>>test_deposit.py, Merge Conflit with initial file from S.T.R.T
+>> S.T.R.T overwrites the file
 moe pyae kyaw 6805142010
 May Than Thar Ko 6805140051
 Aung San Thu Rain Tun, 6805142005
+<<<<<<< HEAD
 ## Who Did What
 | Aung San Thu Rain Tun | BrianHobbies | test_deposit.py, test_withdraw.py, conftest.py |
 |---|---|---|
 
+=======
+| Moe Pyae Kyaw | 6805142010-hue | teardown.py |
+>>>>>>> a4c40e0df70247927ee309e561cb46757c106bec
