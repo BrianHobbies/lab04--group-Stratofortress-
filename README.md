@@ -1,6 +1,8 @@
 ## Stratofortress
 
 ## Who Did What
+| Member | GitHub Username | File |
+|---|---|---|
 | Aung San Thu Rain Tun | BrianHobbies | test_deposit.py, test_withdraw.py, conftest.py |
 | May Than Thar Ko | 6805140051-oss | test_shared.py, test_deposit.py, conftest.py |
 | Moe Pyae Kyaw | 6805142010-hue | teardown.py |
