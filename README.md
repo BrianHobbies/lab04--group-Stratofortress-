@@ -12,17 +12,17 @@
 
 ## Our Merge Conflict
 Activity: "README.md update" by 6805142010-hue
-#We encountered Conflict markers at line 25 and 26. 
-#We accepted the incoming branch "a4c40e0df70247927ee309e561cb46757c106bec" since the current branch is empty.
-#Both branches modified the same section of README.md, Line 25 and 26. Git could detect that the changes overlapped, but it could not determine which version the team intended to keep. Therefore, a team member had to manually choose the correct version and remove the conflict markers.
+# We encountered Conflict markers at line 25 and 26. 
+# We accepted the incoming branch "a4c40e0df70247927ee309e561cb46757c106bec" since the current branch is empty.
+# Both branches modified the same section of README.md, Line 25 and 26. Git could detect that the changes overlapped, but it could not determine which version the team intended to keep. Therefore, a team member had to manually choose the correct version and remove the conflict markers.
 
 ## Git Contribution Summary
-|GitHub Username              | Name and ID                             |
+| GitHub Username | Name and ID |                          
 |---|---|---|
-|9  6805142010-hue            |      Moe Pyae Kyaw, 6805142010          |
-|9  AungSanThuRainTun         |      Aung San Thu Rain Tun, 6805142005  |
-|3  LaSi                      |      May Than Thar Ko, 6805140051       |
-|1  BrianHobbies              |      Aung San Thu Rain Tun, 6805142005  |
+| 9  6805142010-hue | Moe Pyae Kyaw, 6805142010 |
+| 13  AungSanThuRainTun | Aung San Thu Rain Tun, 6805142005 |
+| 3  LaSi | May Than Thar Ko, 6805140051 |
+| 1  BrianHobbies | Aung San Thu Rain Tun, 6805142005 |
 
 ## Reflection Questions
 **Why was your push rejected, and how did you fix it?**
